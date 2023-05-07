@@ -1,2 +1,3 @@
 hello git! hello word!
 nihaoaaaaa master text
+nihaoaaaaa hot-fix test
