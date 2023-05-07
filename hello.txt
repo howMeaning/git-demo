@@ -3,3 +3,4 @@ nihaoaaaaa master text
 nihaoaaaaa hot-fix test
 new change
 change by how_Meaning
+change by new
